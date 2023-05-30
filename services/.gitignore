@@ -1,0 +1,4 @@
+/webserver-cluster/.terraform/
+/webserver-cluster/terraform.tfstate.backup
+/webserver-cluster/terraform.tfstate
+/webserver-cluster/.terraform.lock.hcl
